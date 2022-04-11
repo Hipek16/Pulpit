@@ -3,8 +3,8 @@
 
 
 
-# Hi i'm Hipek 👋
+# Hi i'm Igor 👋
 
-- I'm learning React.js | Netx.js | php | Java
+- I'm working for HopCode.pl
 - I create a website 
 - I Like volleyball | Right Side Hitter
